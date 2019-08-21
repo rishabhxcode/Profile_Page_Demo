@@ -1,7 +1,8 @@
 # profile_page_1
 
 A new Flutter project.
-![alt text](https://github.com/rishabhxcode/Profile_Page_Demo/edit/master/README.md)
+
+![Screenshot](Screenshot_1566398106.png)
 
 ## Getting Started
 
