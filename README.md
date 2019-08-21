@@ -1,8 +1,8 @@
 # profile_page_1
 
-A new Flutter project.
+Profile Page Demo
 
-![Screenshot](Screenshot_1566398106.png)
+![Screenshot](Screenshot_1566398758.png)
 
 ## Getting Started
 
