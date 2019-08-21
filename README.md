@@ -1,8 +1,8 @@
 # profile_page_1
 
 Profile Page Demo
-
-![Screenshot](Screenshot_1566398758.png)
+<br><br>
+<img src="./Screenshot_1566398758.png" width="360" height="640">
 
 ## Getting Started
 
